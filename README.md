@@ -34,12 +34,17 @@
 
 
 ## 🌟 Projects
-### FaceSwap Project
-A project for face swapping using advanced machine learning techniques.
+### FaceX 🌀    
+####                 "With FaceX, I Can Be Anyone." 🎭😎
+- A project for face swapping using advanced machine learning techniques.
 
-![Project Image](URL_TO_YOUR_PROJECT_IMAGE)
+<p align="center">
+  <a href="https://yourprojecthomepage.com">
+    <img src="https://github.com/Im-Muzzy/Im-Muzzy/blob/main/images/changeFaceResults.gif" alt="FaceSwap Project GIF" width="600"/>
+  </a>
+</p>
 
-For more details, check out the [FaceSwap Project Repository](LINK_TO_YOUR_REPOSITORY).
+For more details,  visit the [project homepage](https://yourprojecthomepage.com).
 
 ## 📫 联系方式
 
